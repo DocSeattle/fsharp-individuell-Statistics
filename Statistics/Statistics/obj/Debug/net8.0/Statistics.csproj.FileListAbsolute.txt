@@ -1,0 +1,12 @@
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\bin\Debug\net8.0\Statistics.deps.json
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\bin\Debug\net8.0\Statistics.dll
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\bin\Debug\net8.0\Statistics.pdb
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.csproj.AssemblyReference.cache
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfoInputs.cache
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfo.cs
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.csproj.CoreCompileInputs.cache
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.dll
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\refint\Statistics.dll
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.pdb
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\ref\Statistics.dll
