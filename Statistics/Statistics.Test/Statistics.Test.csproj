@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\Statistics.csproj" />
+    <ProjectReference Include="../Statistics/Statistics.csproj" />
   </ItemGroup>
 
 </Project>

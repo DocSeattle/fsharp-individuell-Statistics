@@ -100,3 +100,7 @@ D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics.Test\obj\Debu
 D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics.Test\obj\Debug\net8.0\Statistics.Test.pdb
 D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics.Test\obj\Debug\net8.0\Statistics.Test.genruntimeconfig.cache
 D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics.Test\obj\Debug\net8.0\ref\Statistics.Test.dll
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics.Test\obj\Debug\net8.0\Statistics.Test.sourcelink.json
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics.Test\bin\Debug\net8.0\Statistics.deps.json
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics.Test\bin\Debug\net8.0\Statistics.runtimeconfig.json
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics.Test\bin\Debug\net8.0\Statistics.exe

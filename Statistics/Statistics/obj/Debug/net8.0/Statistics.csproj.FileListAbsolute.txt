@@ -10,3 +10,9 @@ D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net
 D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\refint\Statistics.dll
 D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.pdb
 D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\ref\Statistics.dll
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.sourcelink.json
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\bin\Debug\net8.0\Statistics.exe
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\bin\Debug\net8.0\Statistics.runtimeconfig.json
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.csproj.CopyComplete
+D:\Skolkaos\fördjupning programmering\indiv\Statistics\Statistics\obj\Debug\net8.0\Statistics.genruntimeconfig.cache

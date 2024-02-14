@@ -1,1 +1,7 @@
-Tests.Tests.XX_XX_XX
+Statistics.Tests.MaximumTest
+Statistics.Tests.MinimumTest
+Statistics.Tests.MeanTest
+Statistics.Tests.MedianTest
+Statistics.Tests.ModeTest
+Statistics.Tests.RangeTest
+Statistics.Tests.StandardDeviationTest

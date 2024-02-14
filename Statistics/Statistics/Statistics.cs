@@ -1,17 +1,4 @@
-﻿
-
-
-/** 
-  Förkodade lösningar och ramverk förutom System och dess sublibraries:
-  Tekniskt sett alla metoder/funktioner förutom Mode() är förkodade här.
-  Newtonsoft.JSON är också förkodad. För övrigt är Newtonsoft.JSON ett
-  känt och pålitligt bibliotek som jag kommer använda och har använt
-  tidigare.
-*/
-
-namespace Statistics
-{
-using System;
+﻿using System;
 using Newtonsoft.Json;
 using System.IO;
 using System.Collections.Generic;
@@ -19,6 +6,26 @@ using System.Runtime.CompilerServices;
 using System.Reflection.Metadata.Ecma335;
 using System.Dynamic;
 using System.Security.Cryptography.X509Certificates;
+
+/** 
+ Pre-coded libraries and frameworks that make this project work:
+ Not to mention the obvious, but everything here except for the "Mode()"
+ Function is technically pre-coded, but assuming that that is not what
+ you meant:
+
+ Newtonsoft.Json is used to harvest data from a Json file, which is 
+ where the code gets all of it's data from.
+
+ Xunit is the framework I used to do the testing for each of the 7
+ methods.
+
+ Another obvious library and/or framework is anything in and under the
+ using System; directive. As that was not coded by me.
+*/
+
+namespace Statistics
+{
+
 
   public static class Statistics
   {
